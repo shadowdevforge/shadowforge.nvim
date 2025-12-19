@@ -18,7 +18,7 @@
     <a href="#-keybindings">Keybindings</a> •
     <a href="#-architecture">Architecture</a>
   </p>
-  <a href="shadowdevforge.github.io/docs/project/ShadowForge" align="center">Detailed Documentation here</a>
+  <a href="https://shadowdevforge.github.io/docs/project/ShadowForge" align="center">Detailed Documentation here</a>
 </div>
 
 ---
