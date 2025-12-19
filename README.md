@@ -29,9 +29,8 @@
 
 Unlike other distributions, ShadowForge prioritizes **Architecture**. It separates the "Core" (the engine) from the "User" (your config), ensuring that updates never break your personal settings.
 
-<div align="center">
-    [Full Documentation Here](https://shadowdevforge.github.io/ShadowForge.nvim)
-</div>
+[shadowforge.nvim docs here](https://shadowdevforge.github.io/docs/project/ShadowForge)
+
 
 ### ✨ The Shadow Standard
 *   **🚀 Blazing Fast:** Powered by `lazy.nvim` and `snacks.nvim` consolidation. Sub-30ms startup time.
